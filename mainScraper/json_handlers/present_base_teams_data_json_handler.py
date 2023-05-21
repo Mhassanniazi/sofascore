@@ -2,7 +2,7 @@ import pytz
 from datetime import datetime,timedelta
 import mysql.connector
 
-user, password, host, teamsDataBase, teamsLinkDataBase = 'root', 'kian1381', 'localhost', "teams_datas", "updated_teams_links"
+user, password, host, teamsDataBase, teamsLinkDataBase = 'root', '...', 'localhost', "...", "updated_teams_links"
 
 
 def getCurrentTeamLink(team_Id):
